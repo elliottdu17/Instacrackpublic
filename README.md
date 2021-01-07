@@ -28,9 +28,3 @@
 # Warning
 
 ## use this tool at your own risk!!!
-
-
-# [+] Find Me on :
-
-
-
