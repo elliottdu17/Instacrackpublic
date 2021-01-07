@@ -13,7 +13,7 @@
 
 * `ls`
 
-* `cd Lucifer`
+* `cd Instacrackpublic`
 
 * `chmod +x *`
 
